@@ -1,0 +1,23 @@
+{
+    "name": "migrate-dynamodb",
+    "version": "1.0.0",
+    "description": "Script to migrate DynamoDB",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/toedio/migrate-dynamoDB.git"
+    },
+    "author": "Victor Ferreira da Silva <toedio@yahoo.com.br>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/toedio/migrate-dynamoDB/issues"
+    },
+    "homepage": "https://github.com/toedio/migrate-dynamoDB#readme",
+    "dependencies": {
+        "async": "^2.5.0",
+        "aws-sdk": "^2.127.0",
+    }
+}
